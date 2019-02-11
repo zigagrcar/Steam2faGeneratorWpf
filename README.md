@@ -6,7 +6,7 @@ Currently, this library can:
 
 * Generate login codes for a given Shared Secret. 
 
-#Requirements
+# Requirements
 
 * [Newtonsoft.Json](http://www.newtonsoft.com/json)
 * shared_secret.txt with your shared secret code
